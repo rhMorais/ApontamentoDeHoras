@@ -1,10 +1,5 @@
 -- PROJETO AUXILIAR DE APONTAMENTO DE HORAS
 
-CREATE TABLE PAAH_Branch (
-	Branch_Sequencial 		INT CONSTRAINT PK_Branch PRIMARY KEY IDENTITY(1,1),
-	Branch_Nome				VARCHAR(20)
-)
-
 CREATE TABLE PAAH_TipoProjeto (
 	TipoProj_Sequencial 	INT CONSTRAINT PK_TipoProjeto PRIMARY KEY IDENTITY(1,1),
 	TipoProj_Descricao 		VARCHAR(100)
@@ -18,6 +13,12 @@ CREATE TABLE PAAH_StatusApontamento(
 CREATE TABLE PAAH_TipoEnvolvido(
 	TipoEnvol_Sequencial 	INT CONSTRAINT PK_TipoEnvolvido PRIMARY KEY IDENTITY(1,1),
 	TipoEnvol_Descricao		VARCHAR(100),
+)
+--------------------------------------------------------------------------------------------------------------------------------------------------
+CREATE TABLE PAAH_Branch (
+	Branch_Sequencial 		INT CONSTRAINT PK_Branch PRIMARY KEY IDENTITY(1,1),
+	Branch_Nome				VARCHAR(20),
+	Branch_DataCriacao		DATETIME
 )
 
 CREATE TABLE PAAH_Projeto(
@@ -50,7 +51,7 @@ CREATE TABLE PAAH_Apontamento(
 	Apont_Descricao			VARCHAR(255),
 	Branch_Sequencial		INT	CONSTRAINT FK_Apontamento_Branch FOREIGN KEY REFERENCES PAAH_Branch(Branch_Sequencial)
 )
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 CREATE TABLE PAAH_ApontamentoProjeto(
 	Proj_Sequencial		INT CONSTRAINT FK_ApontamentoProjeto_Apontamento FOREIGN KEY REFERENCES PAAH_Apontamento(Apont_Sequencial),
 	Apont_Sequencial	INT CONSTRAINT FK_ApontamentoProjeto_Projeto FOREIGN KEY REFERENCES PAAH_Projeto(Proj_Sequencial)

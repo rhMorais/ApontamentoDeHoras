@@ -1,0 +1,10 @@
+C:\Users\Rafael\Desktop\ApontamentoDeHoras\ApontamentoDeHoras\AH_Service\bin\Debug\AH.Service.dll
+C:\Users\Rafael\Desktop\ApontamentoDeHoras\ApontamentoDeHoras\AH_Service\bin\Debug\AH.Service.pdb
+C:\Users\Rafael\Desktop\ApontamentoDeHoras\ApontamentoDeHoras\AH_Service\obj\Debug\AH.Service.csprojResolveAssemblyReference.cache
+C:\Users\Rafael\Desktop\ApontamentoDeHoras\ApontamentoDeHoras\AH_Service\obj\Debug\AH.Service.dll
+C:\Users\Rafael\Desktop\ApontamentoDeHoras\ApontamentoDeHoras\AH_Service\obj\Debug\AH.Service.pdb
+C:\Users\Rafael\Desktop\ApontamentoDeHoras\ApontamentoDeHoras\AH.Service\bin\Debug\AH.Service.dll
+C:\Users\Rafael\Desktop\ApontamentoDeHoras\ApontamentoDeHoras\AH.Service\bin\Debug\AH.Service.pdb
+C:\Users\Rafael\Desktop\ApontamentoDeHoras\ApontamentoDeHoras\AH.Service\obj\Debug\AH.Service.csprojResolveAssemblyReference.cache
+C:\Users\Rafael\Desktop\ApontamentoDeHoras\ApontamentoDeHoras\AH.Service\obj\Debug\AH.Service.dll
+C:\Users\Rafael\Desktop\ApontamentoDeHoras\ApontamentoDeHoras\AH.Service\obj\Debug\AH.Service.pdb

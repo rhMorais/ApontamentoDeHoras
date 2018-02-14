@@ -1,0 +1,5 @@
+C:\Users\Rafael\Desktop\ApontamentoDeHoras\ApontamentoDeHoras\ApontamentoDeHoras.Application\bin\Debug\AH.Application.dll
+C:\Users\Rafael\Desktop\ApontamentoDeHoras\ApontamentoDeHoras\ApontamentoDeHoras.Application\bin\Debug\AH.Application.pdb
+C:\Users\Rafael\Desktop\ApontamentoDeHoras\ApontamentoDeHoras\ApontamentoDeHoras.Application\obj\Debug\1 - AH.Application.csprojResolveAssemblyReference.cache
+C:\Users\Rafael\Desktop\ApontamentoDeHoras\ApontamentoDeHoras\ApontamentoDeHoras.Application\obj\Debug\AH.Application.dll
+C:\Users\Rafael\Desktop\ApontamentoDeHoras\ApontamentoDeHoras\ApontamentoDeHoras.Application\obj\Debug\AH.Application.pdb

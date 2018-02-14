@@ -1,0 +1,9 @@
+C:\Users\Rafael\Desktop\ApontamentoDeHoras\ApontamentoDeHoras\AH_Repository\bin\Debug\AH.Repository.dll
+C:\Users\Rafael\Desktop\ApontamentoDeHoras\ApontamentoDeHoras\AH_Repository\bin\Debug\AH.Repository.pdb
+C:\Users\Rafael\Desktop\ApontamentoDeHoras\ApontamentoDeHoras\AH_Repository\obj\Debug\AH.Repository.dll
+C:\Users\Rafael\Desktop\ApontamentoDeHoras\ApontamentoDeHoras\AH_Repository\obj\Debug\AH.Repository.pdb
+C:\Users\Rafael\Desktop\ApontamentoDeHoras\ApontamentoDeHoras\AH.Repository\bin\Debug\AH.Repository.dll
+C:\Users\Rafael\Desktop\ApontamentoDeHoras\ApontamentoDeHoras\AH.Repository\bin\Debug\AH.Repository.pdb
+C:\Users\Rafael\Desktop\ApontamentoDeHoras\ApontamentoDeHoras\AH.Repository\obj\Debug\AH.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Rafael\Desktop\ApontamentoDeHoras\ApontamentoDeHoras\AH.Repository\obj\Debug\AH.Repository.dll
+C:\Users\Rafael\Desktop\ApontamentoDeHoras\ApontamentoDeHoras\AH.Repository\obj\Debug\AH.Repository.pdb

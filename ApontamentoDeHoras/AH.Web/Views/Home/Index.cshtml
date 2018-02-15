@@ -1,0 +1,29 @@
+﻿<!-- No header, and the drawer stays open on larger screens (fixed drawer). -->
+<div class="mdl-layout mdl-js-layout mdl-layout--fixed-drawer">
+    <div class="mdl-layout__drawer">
+        <span class="mdl-layout-title">Title</span>
+        <nav class="mdl-navigation">
+            <a class="mdl-navigation__link" href="">Link</a>
+            <a class="mdl-navigation__link" href="">Link</a>
+            <a class="mdl-navigation__link" href="">Link</a>
+            <a class="mdl-navigation__link" href="">Link</a>
+        </nav>
+    </div>
+    <main class="mdl-layout__content">
+        <h2>Iniciando projeto</h2>
+
+        <h3>Primeiros testes</h3>
+
+        <input type="text" id="nome" />
+
+        <div class="container" id="result"></div>
+
+        <script>
+
+            $("#nome").blur(function () {
+                $("#result").text($("#nome").val());
+            })
+
+        </script>
+    </main>
+</div>

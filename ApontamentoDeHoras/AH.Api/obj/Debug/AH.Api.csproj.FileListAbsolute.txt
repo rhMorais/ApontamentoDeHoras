@@ -42,3 +42,6 @@ C:\Users\Rafael\Desktop\ApontamentoDeHoras\ApontamentoDeHoras\AH.Api\bin\System.
 C:\Users\Rafael\Desktop\ApontamentoDeHoras\ApontamentoDeHoras\AH.Api\bin\System.Web.WebPages.Razor.xml
 C:\Users\Rafael\Desktop\ApontamentoDeHoras\ApontamentoDeHoras\AH.Api\obj\Debug\AH.Api.dll
 C:\Users\Rafael\Desktop\ApontamentoDeHoras\ApontamentoDeHoras\AH.Api\obj\Debug\AH.Api.pdb
+C:\Users\Rafael\Documents\ApontamentoDeHoras\ApontamentoDeHoras\AH.Api\obj\Debug\AH.Api.csprojResolveAssemblyReference.cache
+C:\Users\Rafael\Documents\ApontamentoDeHoras\ApontamentoDeHoras\AH.Api\obj\Debug\AH.Api.dll
+C:\Users\Rafael\Documents\ApontamentoDeHoras\ApontamentoDeHoras\AH.Api\obj\Debug\AH.Api.pdb
